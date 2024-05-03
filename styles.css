@@ -299,7 +299,7 @@ footer {
     align-items: center;
     background-color: rgb(3, 29, 31);
     gap: 3rem;
-    padding: 2rem 0px;
+    padding: 2rem 2rem;
 }
 
 footer p{
@@ -328,9 +328,7 @@ footer p{
     .textProject  {
         margin-bottom: 0.6rem;
     }
-}
 
-@media (max-width: 1262px) {
     .projectContent{
         flex-direction: column;
     }
